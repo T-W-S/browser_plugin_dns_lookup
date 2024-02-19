@@ -3,13 +3,6 @@
 
 _Initial published version 0.93_
 
-## Popup screen shot
-
-
-![initial_popup](assets/initial_popup.png)
-![result1](assets/result1.png)
-![result2](assets/result2.png)
-
 ## Description
 
 For a given domain and DKIM selector (optional) a output is generated of the results for the following DNS queries: A, AAA, MX, NS, DKIM, SPF, DMARC, CNAME. IPv6 queries are disabled by default. Also the output can be copied by a single click, you are welcome.
@@ -35,3 +28,12 @@ The images folder contain 3 .png files (change them if you like) 16x16, 48x48 an
 Chrome/Edge: Go to ***chrome://extensions/*** (or ***edge://extensions/*** for Edge), enable ***"Developer mode"***, and click ***"Load unpacked"***. Select the folder containing your extension's files.  
   
 Firefox: Go to ***about:debugging***, click ***"This Firefox"***, and click ***"Load Temporary Add-on"***. Select the manifest file of your extension.
+
+
+
+## Popup screen shot
+
+
+![initial_popup](assets/initial_popup.png)
+![result1](assets/result1.png)
+![result2](assets/result2.png)
