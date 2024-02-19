@@ -18,7 +18,7 @@ The manifest file that describes your extension to the browser.
 The HTML file for the extension's popup UI, where users input the domain and optional DKIM selector, enable/disable IPv6 queries and copy the generated output.
 
 - ***popup.js***  
-The JavaScript file linked from popup.html that handles user input, performs DNS lookups using Cloudflare's DNS over HTTPS API, and displays the results in the popup.
+The JavaScript file linked from popup.html that handles user input, performs DNS lookups using Cloudflare's DNS over HTTPS API, and displays the results in the popup. The brain of the extension.
 
 - ***popup.css***  
 The CSS file linked from popup.html for styling
