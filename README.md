@@ -14,10 +14,10 @@ For a given domain and DKIM selector (optional) a output is generated of the res
 - manifest.json:  
 The manifest file that describes your extension to the browser.
 
-- popup.html: 
+- popup.html:  
 The HTML file for the extension's popup UI, where users input the domain and optional DKIM selector, enable/disable IPv6 queries and copy the generated output.
 
-- popup.js: 
+- popup.js:  
 The JavaScript file linked from popup.html that handles user input, performs DNS lookups using Cloudflare's DNS over HTTPS API, and displays the results in the popup.
 
 - popup.css:  
