@@ -30,8 +30,8 @@ Chrome/Edge: Go to ***chrome://extensions/*** (or ***edge://extensions/*** for E
 Firefox: Go to ***about:debugging***, click ***"This Firefox"***, and click ***"Load Temporary Add-on"***. Select the manifest file of your extension.
    
 
-
-## Popup screen shot
+   
+## Screen dumps
 
 
 ![initial_popup](assets/initial_popup.png)
