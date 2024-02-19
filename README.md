@@ -7,7 +7,7 @@ _Initial published version 0.93_
 
 For a given domain and DKIM selector (optional) a output is generated of the results for the following DNS queries: A, AAA, MX, NS, DKIM, SPF, DMARC, CNAME. IPv6 queries are disabled by default. Also the output can be copied by a single click, you are welcome.
 
-## The browser extension will consist of at least these files:
+## The browser extension consist of at least these files:
 
 - manifest.json:  
 The manifest file that describes your extension to the browser.
