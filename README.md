@@ -7,7 +7,9 @@ _Initial published version 0.93_
 
 For a given domain and DKIM selector (optional) a output is generated of the results for the following DNS queries: A, AAA, MX, NS, DKIM, SPF, DMARC, CNAME. IPv6 queries are disabled by default. The output of the results can be copied (***Copy Results***) by a single click to the clipboard.
 
-## The browser extension consist of at least these files:
+## How2
+
+### The browser extension consist of at least these files. Create a folder download the following files to the new folder:
 
 - manifest.json:  
 The manifest file that describes your extension to the browser.
@@ -24,7 +26,7 @@ The CSS file linked from popup.html for styling
 - images folder:  
 The images folder contain 3 .png files (change them if you like) 16x16, 48x48 and 128x128 for the extension icons.
 
-## How to load Extension into the Browser  
+### How to load Extension into the Browser  
 Chrome/Edge: Go to ***chrome://extensions/*** (or ***edge://extensions/*** for Edge), enable ***"Developer mode"***, and click ***"Load unpacked"***. Select the folder containing your extension's files.  
   
 Firefox: Go to ***about:debugging***, click ***"This Firefox"***, and click ***"Load Temporary Add-on"***. Select the manifest file of your extension.
