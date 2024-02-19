@@ -3,6 +3,9 @@
 
 _Initial published version 0.93_
 
+1. Popup screen shot
+     [!initial_popup](assets/initial_popup)
+
 ## Description
 
 For a given domain and DKIM selector (optional) a output is generated of the results for the following DNS queries: A, AAA, MX, NS, DKIM, SPF, DMARC, CNAME. IPv6 queries are disabled by default. Also the output can be copied by a single click, you are welcome.
