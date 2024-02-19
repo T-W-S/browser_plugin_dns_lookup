@@ -9,7 +9,7 @@ For a given domain and DKIM selector (optional) a output is generated of the res
 
 ## How2
 
-### The browser extension consist of at least these files. Create a folder download the following files to the new folder:
+### The browser extension consist of at least the following files. Create a folder download the below mentioned files to the new folder:
 
 - manifest.json:  
 The manifest file that describes your extension to the browser.
