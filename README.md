@@ -1,5 +1,8 @@
 Browser plugin for DNS Lookup
 
+
+Initial published version 0.93
+
 Description
 For a given domain and DKIM selector (optional) a output is generated of the results for the following DNS queries: A, AAA, MX, NS, DKIM, SPF, DMARC, CNAME. IPv6 queries are disabled by default. Also the output can be copied by a single click, you are welcome.
 

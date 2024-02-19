@@ -1,6 +1,7 @@
 /*
     Author: Tom W. Sch
     Created: 02.02.24
+    Initial published version 0.93
 */
 // Function to perform a DNS lookup for a given type and domain
 async function dnsLookup(type, domain) {
