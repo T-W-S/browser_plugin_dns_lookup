@@ -21,7 +21,7 @@ The HTML file for the extension's popup UI, where users input the domain and opt
 The JavaScript file linked from popup.html that handles user input, performs DNS lookups using Cloudflare's DNS over HTTPS API, and displays the results in the popup. The brain of the extension.
 
 - ***popup.css***  
-The CSS file linked from popup.html for styling
+The CSS file linked from popup.html for styling.
 
 - ***images folder***  
 The images folder contain 3 .png files (change them if you like) 16x16, 48x48 and 128x128 for the extension icons.
