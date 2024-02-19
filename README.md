@@ -6,10 +6,7 @@ _Initial published version 0.93_
 ## Popup screen shot
 
 
-    ![initial_popup](assets/initial_popup.png)
-
-
-    ![result1](assets/result1.png)
+    ![initial_popup](assets/initial_popup.png), ![result1](assets/result1.png)
 
 ## Description
 
