@@ -28,7 +28,7 @@ The images folder contain 3 .png files (change them if you like) 16x16, 48x48 an
 Chrome/Edge: Go to ***chrome://extensions/*** (or ***edge://extensions/*** for Edge), enable ***"Developer mode"***, and click ***"Load unpacked"***. Select the folder containing your extension's files.  
   
 Firefox: Go to ***about:debugging***, click ***"This Firefox"***, and click ***"Load Temporary Add-on"***. Select the manifest file of your extension.
-
+   
 
 
 ## Popup screen shot
