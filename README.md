@@ -1,7 +1,7 @@
 # Browser plugin for DNS Lookup
 
 
-_Initial published version 0.93_
+_Initial published version 24.02_
 
 ## Description
 
